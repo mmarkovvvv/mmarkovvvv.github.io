@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/MagazineReader.tsx": {
-    "file": "assets/MagazineReader-DMAzNHFF.js",
+    "file": "assets/MagazineReader-C81NftQI.js",
     "name": "MagazineReader",
     "src": "app/MagazineReader.tsx",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-wcznr8KM.js",
+    "file": "assets/layout-segment-context-GfwKu2L8.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -43,7 +43,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-CAwojHRi.js",
+    "file": "assets/index-7XDZCRaD.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
